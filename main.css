@@ -1,3 +1,60 @@
 body {
-  background-color: lightsalmon;
+  background-color:plum;
+}
+
+p {
+  background-color: lightcoral;
+  color: whitesmoke;
+  font-style:oblique;
+  font-size: 35px;
+}
+
+li {
+  font-size: 20px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: lightslategray;
+  background-color: lightgoldenrodyellow;
+  border-style:inset;
+  border-color: black;
+  border-width: thin;
+}
+ 
+#not {
+  background-color: lightseagreen;
+  color: whitesmoke;
+  font-size: 23px;
+}
+
+#myskills {
+  background-color: lightgreen;
+  color: blueviolet;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-style: dotted ;
+  border-color: blue;
+  border-width: medium;
+}
+
+
+#myskills2 {
+  background-color:darkred;
+  color: deeppink;
+  font-family: fantasy;
+  border-style:ridge ;
+  border-color: darkslategrey;
+  border-width: thick;
+}
+#myskills3 {
+  background-color: black;
+  color: darkgoldenrod;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-style:double ;
+  border-color: aqua;
+  border-width:unset;
+}
+
+h1 {
+  color: darkorange;
+  background-color: navy;
+  font-family: monospace;
+  font-size: 24px;
 }
